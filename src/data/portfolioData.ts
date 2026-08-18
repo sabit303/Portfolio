@@ -41,7 +41,7 @@ export const PORTFOLIO_DATA = {
     phone: "01632236600"
   },
   about: {
-    bio: "I am a Computer Science student at Mymensingh Engineering College with a strong passion for technology, software development, and quality assurance[cite: 1]. I enjoy learning new tools, exploring innovative solutions, and contributing to impactful tech projects[cite: 1].",
+    bio: "I am a Computer Science student at Mymensingh Engineering College with a strong passion for technology, software development, and quality assurance. I enjoy learning new tools, exploring innovative solutions, and contributing to impactful tech projects.",
     focus: [
       "Full-Stack Web Development",
       "API Testing & Quality Assurance",
@@ -105,9 +105,9 @@ export const PORTFOLIO_DATA = {
       organization: "Arvyo Soft",
       type: "work",
       description: [
-        "Tested production-level APIs and web UIs for multiple international clients[cite: 1].",
-        "Created detailed test plans, documentation, and bug reports to ensure product quality[cite: 1].",
-        "Collaborated with engineers to develop and improve product usability and accuracy[cite: 1]."
+        "Tested production-level APIs and web UIs for multiple international clients.",
+        "Created detailed test plans, documentation, and bug reports to ensure product quality.",
+        "Collaborated with engineers to develop and improve product usability and accuracy."
       ],
       location: "Mymensingh, Bangladesh"
     },
@@ -117,7 +117,7 @@ export const PORTFOLIO_DATA = {
       role: "B.Sc. in Computer Science and Engineering",
       organization: "Mymensingh Engineering College",
       type: "education",
-      description: ["Focused on computer science fundamentals, data structures, algorithms, and software engineering principles[cite: 1]."],
+      description: ["Focused on computer science fundamentals, data structures, algorithms, and software engineering principles."],
       location: "Mymensingh, Bangladesh"
     },
     {
@@ -126,7 +126,7 @@ export const PORTFOLIO_DATA = {
       role: "Higher Secondary Certificate (Science)",
       organization: "Agricultural University College",
       type: "education",
-      description: ["Achieved GPA: 5.00[cite: 1]"],
+      description: ["Achieved GPA: 5.00"],
       location: "Mymensingh, Bangladesh"
     },
     {
@@ -135,7 +135,7 @@ export const PORTFOLIO_DATA = {
       role: "Secondary School Certificate (Science)",
       organization: "Agricultural University High School",
       type: "education",
-      description: ["Achieved GPA: 5.00[cite: 1]"],
+      description: ["Achieved GPA: 5.00"],
       location: "Mymensingh, Bangladesh"
     }
   ] as ExperienceItem[],
@@ -145,14 +145,14 @@ export const PORTFOLIO_DATA = {
       title: "Onsite Contestant",
       event: "ICPC Asia Dhaka Regional Onsite Contest",
       year: "2024",
-      description: "Competed among top regional collegiate teams solving complex algorithmic problems under strict contest constraints[cite: 1]."
+      description: "Competed among top regional collegiate teams solving complex algorithmic problems under strict contest constraints."
     },
     {
       id: "ach-2",
       title: "2nd Runners Up",
       event: "Devsphere Hackathon",
       year: "2025",
-      description: "Awarded 3rd place overall for designing and implementing an innovative software solution under hackathon time limits[cite: 1]."
+      description: "Awarded 3rd place overall for designing and implementing an innovative software solution under hackathon time limits."
     }
   ] as AchievementItem[],
   researchInterests: [

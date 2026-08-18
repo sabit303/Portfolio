@@ -19,7 +19,7 @@ export const Contact: React.FC = () => {
           <p className="text-xs font-mono uppercase tracking-widest text-cyan-400 mb-2">06. Get In Touch</p>
           <h2 className="text-3xl sm:text-5xl font-bold text-white mb-6">Let's build something meaningful.</h2>
           <p className="text-neutral-400 text-base mb-10 leading-relaxed">
-            I am currently open to software engineering opportunities, research collaborations, and technical discussions[cite: 1].
+            I am currently open to software engineering opportunities, research collaborations, and technical discussions.
           </p>
 
           <div className="glass-card p-8 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-6 border border-white/10 mb-12">

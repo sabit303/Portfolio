@@ -17,7 +17,7 @@ export const About: React.FC = () => {
                 {PORTFOLIO_DATA.about.bio}
               </p>
               <p className="text-neutral-400 text-sm leading-relaxed mb-8">
-                Currently pursuing a B.Sc. in Computer Science and Engineering at Mymensingh Engineering College[cite: 1], alongside hands-on testing and development experience at Arvyo Soft[cite: 1].
+                Currently pursuing a B.Sc. in Computer Science and Engineering at Mymensingh Engineering College, alongside hands-on testing and development experience at Arvyo Soft.
               </p>
 
               <p className="font-mono text-xs uppercase text-cyan-400 tracking-wider mb-4">Core Focus Areas</p>
@@ -36,7 +36,7 @@ export const About: React.FC = () => {
                 <Terminal className="w-8 h-8 text-cyan-400 shrink-0 mt-1" />
                 <div>
                   <h3 className="text-white font-semibold mb-1">Academic Background</h3>
-                  <p className="text-sm text-neutral-400">Computer Science student at Mymensingh Engineering College (2023 – Present)[cite: 1].</p>
+                  <p className="text-sm text-neutral-400">Computer Science student at Mymensingh Engineering College (2023 – Present).</p>
                 </div>
               </div>
 
@@ -44,7 +44,7 @@ export const About: React.FC = () => {
                 <Code2 className="w-8 h-8 text-blue-400 shrink-0 mt-1" />
                 <div>
                   <h3 className="text-white font-semibold mb-1">Industry Experience</h3>
-                  <p className="text-sm text-neutral-400">Software Engineer Intern at Arvyo Soft, working on client APIs and web UIs[cite: 1].</p>
+                  <p className="text-sm text-neutral-400">Software Engineer Intern at Arvyo Soft, working on client APIs and web UIs.</p>
                 </div>
               </div>
             </div>

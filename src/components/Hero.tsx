@@ -12,7 +12,7 @@ export const Hero: React.FC = () => {
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="max-w-3xl">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full glass-card mb-6 text-xs font-mono text-cyan-400 border border-cyan-500/20">
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
-            Software Engineer Intern @ Arvyo Soft[cite: 1]
+            Software Engineer Intern @ Arvyo Soft
           </div>
 
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white mb-6">
@@ -20,7 +20,7 @@ export const Hero: React.FC = () => {
           </h1>
 
           <p className="text-lg sm:text-2xl font-mono text-neutral-400 mb-6">
-            Computer Science Student • Software Engineer[cite: 1]
+            Computer Science Student • Software Engineer
           </p>
 
           <p className="text-base sm:text-lg text-neutral-300 mb-10 leading-relaxed max-w-2xl">
