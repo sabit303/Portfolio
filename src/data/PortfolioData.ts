@@ -68,7 +68,7 @@ export const PORTFOLIO_DATA = {
     },
     {
       id: "bd-train",
-      title: "BD Train Ticketing Automation",
+      title: "BD Train Ticketing Automation Service",
       tagline: "Automated booking helper and seat availability monitor for railway transit.",
       description: "An automated system designed to streamline railway ticket searches, availability queries, and reservation workflows.",
       problem: "High web traffic during peak windows causes friction and delays when manually reserving tickets.",
