@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowUpRight, Download, Github, Linkedin, Mail } from 'lucide-react';
+import { ArrowUpRight, Download, Github, Linkedin } from 'lucide-react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
 
 export const Hero: React.FC = () => {

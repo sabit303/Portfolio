@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Github, ExternalLink, X, ArrowUpRight } from 'lucide-react';
+import { Github, X, ArrowUpRight } from 'lucide-react';
 import { PORTFOLIO_DATA, Project } from '../data/portfolioData';
 
 export const Projects: React.FC = () => {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Github, Linkedin, Copy, Check, ExternalLink } from 'lucide-react';
+import { Mail, Github, Linkedin, Copy, Check } from 'lucide-react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
 
 export const Contact: React.FC = () => {

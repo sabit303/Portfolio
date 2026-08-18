@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code2, Terminal, Cpu, CheckCircle2 } from 'lucide-react';
+import { Code2, Terminal, CheckCircle2 } from 'lucide-react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
 
 export const About: React.FC = () => {
